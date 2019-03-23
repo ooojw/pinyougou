@@ -16,7 +16,7 @@ import java.util.Set;
 public class UserDetailServiceImpl implements UserDetailsService {
 
     /**
-     * 登录成功后：需要对该用户进行授权
+     *
      * @param username
      * @return
      * @throws UsernameNotFoundException
