@@ -29,4 +29,8 @@ public class UserDetailServiceImpl implements UserDetailsService {
         User user = new User(username, "", authorities);
         return user;
     }
+
+    public static void main(String[] args) {
+        System.out.println("hahahahhaha");
+    }
 }
