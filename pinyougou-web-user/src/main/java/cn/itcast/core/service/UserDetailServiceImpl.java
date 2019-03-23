@@ -31,6 +31,7 @@ public class UserDetailServiceImpl implements UserDetailsService {
     }
 
     public static void main(String[] args) {
+        System.out.println("hahahahhaha");
         System.out.println("heiheiheihei");
     }
 }
